@@ -299,7 +299,6 @@ try{
 |12  |Input Output Sederhana	|10	|
 |13  |Array			|15	|
 |14  |Error Handling		|15	|
-|-------------------------------|-------|
 |    |**TOTAL**		        |**100**|
 
 ---
